@@ -1,7 +1,5 @@
 # TFG-Multiagente-GVF
 
-⬇️ *(English version below)* ⬇️
-
 En este repositorio comparto los distintos códigos que he ido desarrollando para mi TFG. 
 Van implementando cosas unos sobre otros. Están ordenados cronológicamente.
 
