@@ -6,6 +6,7 @@ Van implementando cosas unos sobre otros. Están ordenados cronológicamente.
 Algunos simplemente prueban alguna parte del código para entender mejor cómo funcionan.
 Otros van implementando diferentes elementos al código.
 
+También se incluyen las animaciones de las figuras. En la carpeta GIFS se encuentran todas, nombradas por su numeración en la memoria
 ---
 
 # TFG-Multiagent-GVF
@@ -15,3 +16,5 @@ They build upon each other and are ordered chronologically.
 
 Some scripts simply test a specific part of the code to get a better understanding of how it works.
 Others progressively implement different new elements into the main code.
+
+The figures presented in the thesis have been animated and uploaded to the GIFS directory. Its name is directly related to its number in the document.
